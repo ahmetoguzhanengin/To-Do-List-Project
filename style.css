@@ -1,0 +1,49 @@
+
+.card-header{
+    background-color: rgba(0,0,0,0.9) !important;
+}
+.card-body{
+    background-color: rgba(0,0,0,0.8) !important;
+ 
+}
+.card-title{
+    text-align: center!important;
+    color:white !important;
+    
+}
+input{
+    background-color: rgba(0,0,0,0.4) !important;
+    color:white !important;
+ 
+}
+
+.btn {
+    background-color: rgba(0,0,0,0.9) !important;
+
+}
+.list-group{
+    background-color: rgba(0,0,0,0.4) !important;
+}
+
+
+
+body{   
+    color: black;
+   background-image: url(https://r.resimlink.com/Rdrel.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: bottom;
+
+  
+   min-height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: left;
+
+}
+/*
+.card-title{
+  text-align: center;
+
+}*/
